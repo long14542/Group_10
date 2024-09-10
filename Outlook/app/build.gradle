@@ -5,10 +5,12 @@ plugins {
 android {
     namespace 'vn.edu.usth.outlook'
     compileSdk 34
-
     packagingOptions {
-        exclude "META-INF/DEPENDENCIES"
+        resources {
+            excludes += ['META-INF/DEPENDENCIES']
+        }
     }
+
 
     defaultConfig {
         applicationId 'vn.edu.usth.outlook'

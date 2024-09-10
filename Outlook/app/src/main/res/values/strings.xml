@@ -49,6 +49,16 @@
     <string name="log_out">Log out</string>
     <string name="from">From</string>
     <string name="me">me</string>
+    <string name="avatar" />
+    <string name="lam_nhu">Lam Nhu</string>
+    <string name="nhutunglam1_gmail_com">nhutunglam1@gmail.com</string>
+    <string name="mail_calendar"><![CDATA[Mail & Calendar]]></string>
+    <string name="block_external_images">Block external images</string>
+    <string name="reset_settings">RESET SETTINGS</string>
+    <string name="remove_account">REMOVE ACCOUNT</string>
+    <string name="categories">Categories</string>
+    <string name="report_spam">Report spam</string>
+    <string name="reset_account">RESET ACCOUNT</string>
 
 
 </resources>
